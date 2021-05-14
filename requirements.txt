@@ -42,4 +42,4 @@ redis == 2.10.6
 pika == 0.13.0
 
 elasticsearch >=5.0.0,<6.0.0
-cassandra-driver == 3.16.0
+
