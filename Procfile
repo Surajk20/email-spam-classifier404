@@ -1,1 +1,1 @@
-web: python email-spam-classifier404.py runserver 0.0.0.0:$PORT
+web: sh setup.sh && streamlit run email-spam-classifier404.py
